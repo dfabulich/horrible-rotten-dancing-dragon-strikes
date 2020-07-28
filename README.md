@@ -4,9 +4,11 @@ This game was originally published in Softline magazine in January 1983. It was 
 
 I've preserved this game for historical interest. It's the very first text adventure game that I can remember playing. It's got a dancing dragon, a McRib sandwich, a snarky dinosaur, and a magic spring.
 
-The easiest way to play the game is to open [dragon.bas](dragon.bas) and copy and paste the source code into the [Applesoft BASIC JavaScript interpreter](https://www.calormen.com/jsbasic/). Click "Run" to play the game.
+[You can play the BBC micro version online here.](http://bbcmicro.co.uk/jsbeeb/play.php?loadBasic=%20https://raw.githubusercontent.com/dfabulich/horrible-rotten-dancing-dragon-strikes/master/bbcmicro.bas&autorun) (h/t to ahope1 for porting to BBC Micro).
 
-In addition to bug fixes, I'ved added support for the "look" command, and I made the game print the list of exits.
+You can also play the game on an [Applesoft BASIC JavaScript interpreter](https://www.calormen.com/jsbasic/). Open [dragon.bas](dragon.bas) and copy and paste the source code into the interpreter. Click "Run" to play the game.
+
+In addition to bug fixes, I've added support for the "look" command, and I made the game print the list of exits.
 
 The magazine includes a full-color map, below.
 
